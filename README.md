@@ -157,6 +157,5 @@ No known bugs at this time.
 Zakaria Chamakh - [Github](https://github.com/zakariachamakh) / [Twitter](https://twitter.com/ChamakhZakaria)  
 Zakaria Elkhadir - [Github](https://github.com/ZakariaElkhadir) / [Twitter](https://twitter.com/ZakariaElkhadi5)
 
-Second part of Airbnb: Joann Vuong
 ## License
 Public Domain. No copy write protection. 
